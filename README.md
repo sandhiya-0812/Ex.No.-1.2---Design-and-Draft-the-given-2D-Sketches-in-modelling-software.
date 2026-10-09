@@ -36,9 +36,11 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ <img width="1080" height="1024" alt="WhatsApp Image 2026-10-09 at 07 49 56" src="https://github.com/user-attachments/assets/a6fcd9db-cc31-4fd8-9d10-ea0c22ea6c19" />
+<img width="796" height="688" alt="Screenshot 2026-10-08 105944" src="https://github.com/user-attachments/assets/43b4d614-8709-4686-8bce-b88ec1b5eea6" />
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
-<img width="1080" height="1024" alt="WhatsApp Image 2026-10-09 at 07 49 56" src="https://github.com/user-attachments/assets/a6fcd9db-cc31-4fd8-9d10-ea0c22ea6c19" />
-<img width="796" height="688" alt="Screenshot 2026-10-08 105944" src="https://github.com/user-attachments/assets/43b4d614-8709-4686-8bce-b88ec1b5eea6" />
+SANDHIYA G
+26009640
+08/10/2026
